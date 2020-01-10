@@ -1,0 +1,14 @@
+{
+  "checkins": [
+    { "id": 1, "user_id": 1, "date": "2019-04-08", "weight": "210.3" },
+    { "id": 2, "user_id": 1, "date": "2019-04-08", "weight": "210.1" },
+    { "id": 3, "user_id": 1, "date": "2019-04-08", "weight": "211.0" },
+    { "id": 4, "user_id": 1, "date": "2019-04-08", "weight": "210.8" },
+    { "id": 5, "user_id": 1, "date": "2019-04-08", "weight": "210.6" }
+  ],
+  "users": [
+    { "id": 1, "email": "jsposato@gmail.com", "firstName": "John" },
+    { "id": 1, "email": "vincent.sposato@gmail.com", "lastName": "Vincent" }
+  ],
+  "profile": { "name": "typicode" }
+}
